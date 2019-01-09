@@ -7,6 +7,7 @@ import { MatButtonModule, MatInputModule, MatCardModule } from '@angular/materia
 import { AppRoutingModule } from './app-routing.module';
 import { AppComponent } from './app.component';
 import { QuestionComponent } from './components/question/question.component';
+import { FormsModule } from '@angular/forms';
 
 @NgModule({
   declarations: [
@@ -19,7 +20,8 @@ import { QuestionComponent } from './components/question/question.component';
     BrowserAnimationsModule,
     MatButtonModule,
     MatCardModule,
-    MatInputModule
+    MatInputModule,
+    FormsModule
   ],
   providers: [],
   bootstrap: [AppComponent]

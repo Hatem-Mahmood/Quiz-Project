@@ -12,4 +12,9 @@ export class QuestionComponent implements OnInit {
   ngOnInit() {
   }
 
+// function to create and post a question
+create(question){
+console.log(question);
+}
+
 }
