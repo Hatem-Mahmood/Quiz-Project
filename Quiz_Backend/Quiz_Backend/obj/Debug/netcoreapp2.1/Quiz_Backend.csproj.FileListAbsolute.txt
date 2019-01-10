@@ -11,3 +11,4 @@ E:\Node.JS Projects\Quiz-Project\Quiz_Backend\Quiz_Backend\obj\Debug\netcoreapp2
 E:\Node.JS Projects\Quiz-Project\Quiz_Backend\Quiz_Backend\obj\Debug\netcoreapp2.1\Quiz_Backend.RazorTargetAssemblyInfo.cache
 E:\Node.JS Projects\Quiz-Project\Quiz_Backend\Quiz_Backend\obj\Debug\netcoreapp2.1\Quiz_Backend.dll
 E:\Node.JS Projects\Quiz-Project\Quiz_Backend\Quiz_Backend\obj\Debug\netcoreapp2.1\Quiz_Backend.pdb
+E:\Node.JS Projects\Quiz-Project\Quiz_Backend\Quiz_Backend\obj\Debug\netcoreapp2.1\Quiz_Backend.csprojAssemblyReference.cache
